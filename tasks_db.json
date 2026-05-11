@@ -2,15 +2,15 @@
     {
         "id": "tether_qvac_palmsafe",
         "title": "Tether Frontier: PalmSafe QVAC Integration",
-        "description": "Implementing QVAC SDK for local-first AI auditing and WDK for secure USDT escrow within the PalmSafe protocol.",
-        "reward": "10,000 USDT Side Track",
-        "deadline": "2026-05-11 11:59 PM",
+        "description": "Implementing QVAC SDK for local-first AI auditing and WDK for secure USDT escrow within PalmSafe.",
+        "reward": "10,000 USDT",
+        "deadline": "2026-05-11",
         "link": "https://earn.superteam.fun/listings/hackathon/tether-frontier/"
     },
     {
         "id": "birdeye_sprint_4",
         "title": "Birdeye Data BIP Competition — Sprint 4",
-        "description": "On-chain data insights for Birdeye platform.",
+        "description": "On-chain data insights for Birdeye platform focusing on liquidity and whale movements.",
         "reward": "500 USDC",
         "deadline": "2026-05-16",
         "link": "https://earn.superteam.fun/listings/bounty/birdeye-data-bip-sprint-4/"
